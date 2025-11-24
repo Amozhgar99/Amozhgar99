@@ -5,13 +5,6 @@
 
 ---
 
-<!-- Center Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/222065498?v=4" width="140" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 I'm **Amozhgar Saade**, a passionate full-stack developer who loves building **real-time systems**, **clean UIs**, and **high-performance backend logic**.  
 Always improving. Always learning. Always building. ⚡
