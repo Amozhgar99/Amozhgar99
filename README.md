@@ -17,7 +17,6 @@ Always improving. Always learning. Always building. ⚡
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
@@ -26,7 +25,6 @@ Always improving. Always learning. Always building. ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
 </div>
 
-### ⚙️ Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
@@ -34,7 +32,6 @@ Always improving. Always learning. Always building. ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
 </div>
 
-### 🧰 Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
@@ -49,8 +46,6 @@ Always improving. Always learning. Always building. ⚡
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amozhgar99&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amozhgar99&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amozhgar99&theme=tokyonight&hide_border=true" width="55%" />
 
