@@ -56,13 +56,6 @@ Always improving. Always learning. Always building. ⚡
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/amozhgar99/amozhgar99/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ---
