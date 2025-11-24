@@ -7,7 +7,7 @@
 
 <!-- Center Avatar -->
 <p align="center">
-  <img src="https://i.imgur.com/atyPp7H.gif" width="140" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/u/222065498?v=4" width="140" />
 </p>
 
 ---
@@ -31,7 +31,6 @@ Always improving. Always learning. Always building. ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" />
 </div>
 
 ### ⚙️ Backend
