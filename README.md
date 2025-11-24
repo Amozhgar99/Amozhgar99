@@ -52,7 +52,7 @@ Always improving. Always learning. Always building. ⚡
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Always improving. Always learning. Always building. ⚡
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/amozhgar-saade/amozhgar-saade/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/amozhgar99/amozhgar99/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
@@ -106,5 +106,5 @@ Full backend logic with Node.js + MySQL.
 ## 🖤 Thanks for Visiting!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amozhgar-saade&style=for-the-badge&color=lightgrey" />
+  <img src="https://komarev.com/ghpvc/?username=amozhgar99&style=for-the-badge&color=lightgrey" />
 </p>
