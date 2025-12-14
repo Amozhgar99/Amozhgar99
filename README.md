@@ -39,19 +39,6 @@ Always improving. Always learning. Always building. ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amozhgar99&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amozhgar99&theme=tokyonight&hide_border=true" width="55%" />
-
-</div>
-
-
 
 ---
 
@@ -72,14 +59,6 @@ Full backend logic with Node.js + MySQL.
 
 📧 **amozhgarsaade@gmail.com**  
 🐙 GitHub: **@amozhgar99**
-
----
-
-## ⚡ Fun Facts
-- ☕ I drink **5–6 coffees** per day  
-- 🏋️ I train **4–5 times per week**  
-- 💻 I love building **real-time systems**  
-- 🤓 I break things to learn faster
 
 ---
 
