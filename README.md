@@ -10,8 +10,7 @@ I'm **Amozhgar Saade**, a passionate full-stack developer who loves building **r
 Always improving. Always learning. Always building. ⚡
 
 🌱 Currently learning **More About Backend**, **System Design**, and **Performance Optimization**  
-🔥 Technologies I use daily: **React, Node.js, MySQL, MongoDB**  
-💪 Gym lover • Coffee lover • Code lover
+🔥 Technologies I use daily: **React, Node.js, MySQL, MongoDB** 
 
 ---
 
