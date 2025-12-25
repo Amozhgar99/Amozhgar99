@@ -61,8 +61,6 @@ Full backend logic with Node.js + MySQL.
 
 ---
 
-## 🖤 Thanks for Visiting!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amozhgar99&style=for-the-badge&color=lightgrey" />
 </p>
